@@ -38,6 +38,7 @@
           },
           "configurations": {
             "production": {
+               "baseHref": "/SINGLEPAGEPORTFOLIO/",
               "budgets": [
                 {
                   "type": "initial",
