@@ -7,6 +7,7 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+
 section {
   scroll-snap-align: start;
   flex: 0 0 100vh;
